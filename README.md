@@ -16,7 +16,7 @@ Furthermore, there are some
 [tradeoffs to storing JWTs in browser `localStorage`](https://stormpath.com/blog/where-to-store-your-jwts-cookies-vs-html5-web-storage).
 For a concise summary of the benefits/tradeoffs about where/how to store tokens
 client-side, check out
-[this StackOverflow post.]((https://stackoverflow.com/questions/35291573/csrf-protection-with-json-web-tokens/35347022#35347022))
+[this StackOverflow post.](<(https://stackoverflow.com/questions/35291573/csrf-protection-with-json-web-tokens/35347022#35347022)>)
 
 With that out of the way, here begins our journey:
 
